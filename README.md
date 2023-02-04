@@ -1,5 +1,5 @@
 - 👋 Hey im infray
-- 👀 i like games, coding, manga, comics, suicide squad, more
+- 👀 i like games, coding, and being a dumbass
 - 🌱 currently learning js 
 - 💞️ working on IRunblocked (https://irunblocked.xyz)
 - 📫 reach me on discord Infray#3863
