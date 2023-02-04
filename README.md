@@ -1,8 +1,8 @@
 - 👋 Hey im infray
 - 👀 i like games, coding, manga, comics, suicide squad, more
 - 🌱 currently learning js 
-- 💞️ working on IRunblocked (https://thefrayshow.com)
-- 📫 reach me on discord Infrayyy#3863
+- 💞️ working on IRunblocked (https://irunblocked.xyz)
+- 📫 reach me on discord Infray#3863
 
 <!---
 Infrayyy/Infrayyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
